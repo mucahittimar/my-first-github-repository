@@ -1,2 +1,7 @@
-just another file in feature 1 branch
+
+ths iline was replaced in feature-2 branch
+
+
 THIS FILE MODIFIED LOCALLY
+
+modif dans feature-2 branch
